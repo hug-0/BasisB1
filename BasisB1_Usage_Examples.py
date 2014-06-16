@@ -6,7 +6,7 @@ from BasisB1 import *
 # ----------------------------------------------
 # CREATE AN INSTANCE OF THE BASIS B1 AND LOGIN
 # ----------------------------------------------
-basis = BasisB1(usr_name="cmpjmi@gmail.com", pwd="robertbosch11")
+basis = BasisB1(usr_name="email", pwd="password")
 
 # ----------------------------------------------
 # YOU MAY ALSO OVERRIDE THE CONSTRUCTOR LATER ON

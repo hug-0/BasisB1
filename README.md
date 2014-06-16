@@ -6,7 +6,7 @@ A Python wrapper for the RESTful (hidden) BasisB1 API. It supports downloading a
 Dependencies
 =======
 
-The Python modules mechanize, pytz and BeautifulSoup4 are required for the wrapper to run.
+The Python modules mechanize, json, pytz and BeautifulSoup4 are required for the wrapper to run.
 
 Installation
 =======
